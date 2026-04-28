@@ -8,8 +8,8 @@ Query market data, fundamentals, earnings transcripts, news, and macro indicator
 
 This plugin connects Cursor to your viaNexus account. To use it you need:
 
-1. **A viaNexus subscription** — sign up at [blueskydataplatform.com](https://blueskydataplatform.com)
-2. **An API key (`sk_...`)** — generated from your viaNexus dashboard after subscribing
+1. **A viaNexus subscription** — sign up at [console.blueskyapi.com/auth/register](https://console.blueskyapi.com/auth/register)
+2. **An API key (`sk_...`)** — generated from your viaNexus console after subscribing
 3. **The `VIANEXUS_API_KEY` env var set in Cursor** — Cursor will prompt you for it on install, or you can set it manually
 
 Without a valid key the MCP server will reject every request. The plugin itself is free; access to data requires a paid subscription.
