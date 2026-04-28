@@ -1,0 +1,13 @@
+{
+  "name": "vianexus",
+  "displayName": "viaNexus",
+  "version": "0.1.0",
+  "description": "Institutional-grade financial data in Cursor — query market data, fundamentals, earnings transcripts, news, and macro indicators from the BlueSky Data Platform's viaNexus MCP server.",
+  "author": {
+    "name": "viaNexus",
+    "email": "dilpreet.kaur@blueskydataplatform.com"
+  },
+  "license": "MIT",
+  "keywords": ["cursor", "plugin", "mcp", "finance", "market-data", "fundamentals", "earnings", "news", "vianexus", "bluesky"],
+  "logo": "assets/logo.svg"
+}
