@@ -1,6 +1,6 @@
 # viaNexus for Cursor
 
-Institutional-grade financial data inside Cursor, powered by the [viaNexus](https://blueskydataplatform.com) MCP server from the BlueSky Data Platform.
+Institutional-grade financial data inside Cursor, powered by the [viaNexus](https://vianexus.com) MCP server from the BlueSky Data Platform.
 
 Query market data, fundamentals, earnings transcripts, news, and macro indicators directly from your editor.
 
@@ -47,7 +47,7 @@ Then export `VIANEXUS_API_KEY=sk_...` in your shell.
 
 ## Support
 
-- Docs: [blueskydataplatform.com](https://blueskydataplatform.com)
+- Docs: [vianexus.com](https://vianexus.com)
 - Email: dilpreet.kaur@blueskydataplatform.com
 
 ## License

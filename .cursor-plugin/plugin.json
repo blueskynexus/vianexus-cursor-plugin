@@ -8,6 +8,7 @@
     "email": "dilpreet.kaur@blueskydataplatform.com"
   },
   "license": "MIT",
+  "homepage": "https://vianexus.com",
   "keywords": ["cursor", "plugin", "mcp", "finance", "market-data", "fundamentals", "earnings", "news", "vianexus", "bluesky"],
   "logo": "assets/logo.svg"
 }
