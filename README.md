@@ -23,7 +23,7 @@ Without a valid key the MCP server will reject every request. The plugin itself 
 ## What's inside
 
 - `.cursor-plugin/plugin.json` — plugin manifest
-- `mcp.json` — points Cursor at the viaNexus MCP server (`https://mcp-service-857389207619.us-central1.run.app`) and wires `x-api-key` auth from `VIANEXUS_API_KEY`
+- `mcp.json` — points Cursor at the viaNexus MCP server (`https://vast.blueskyapi.com/vianexus/mcp`) and wires `x-api-key` auth from `VIANEXUS_API_KEY`
 - `assets/logo.svg` — viaNexus brandmark
 
 ## Manual MCP config (without the plugin)
@@ -34,7 +34,7 @@ If you'd rather skip the marketplace and wire the MCP server directly, add this 
 {
   "mcpServers": {
     "vianexus": {
-      "url": "https://mcp-service-857389207619.us-central1.run.app",
+      "url": "https://vast.blueskyapi.com/vianexus/mcp",
       "headers": {
         "x-api-key": "${env:VIANEXUS_API_KEY}"
       }
